@@ -1,0 +1,7 @@
+# Contains name or all libaries used in app
+
+Flask
+Flask-RESTful
+Flask-JWT
+Flask-SQLAlchemy
+uwsgi
